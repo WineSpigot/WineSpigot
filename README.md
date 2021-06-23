@@ -8,6 +8,10 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
  - [IRC](https://webchat.esper.net/?channels=paper) or [Discord](https://discord.gg/papermc)
  
  
+ Credits (For Interested People)
+ ------
+ We thanks PaperMC for the fork, and we will use it to upgrade WineSpigot!
+ 
 How To (Plugin Developers)
 ------
  * See our API patches [here](Spigot-API-Patches)
