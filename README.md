@@ -5,7 +5,7 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
 
 
 **Support and Project Discussion:**
- - [IRC](https://webchat.esper.net/?channels=paper) or [Discord](https://discord.gg/papermc)
+ - Sorry not yet.
  
  Where to download? (For people who doesn't know where it is.)
  ------
